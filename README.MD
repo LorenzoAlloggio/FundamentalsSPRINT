@@ -1,5 +1,3 @@
-# samenwerk opdracht
+# goudvissen website
 
-### Ideas/Brainstorm
-- mini-site(html/css) (no JS)
-- mini-game(pong)
+(blub blub)
