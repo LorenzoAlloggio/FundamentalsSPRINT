@@ -1,5 +1,5 @@
 # samenwerk opdracht
 
 ### Ideas/Brainstorm
-- mini-site
+- mini-site(html/css) (no JS)
 - mini-game(pong)
