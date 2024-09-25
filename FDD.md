@@ -5,4 +5,4 @@
 ### different pages about different goldfish
 ### the navigation will only be by buttons NO searchbar
 ### it will have information about every different goldfish
-### It will look modern and finished
+### It will have style

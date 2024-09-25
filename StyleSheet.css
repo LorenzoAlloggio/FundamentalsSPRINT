@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background: linear-gradient(180deg, #87CEEB, #00BFFF); /* Sky blue to deep ocean blue gradient */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.menu-container {
+    background-color: #FFFAF0;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    z-index: 1; /* Ensure the menu stays above the bubbles */
+}
+
+h1 {
+    color: #008080; /* Teal color */
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.menu-button, .back-button {
+    display: block;
+    width: 200px;
+    padding: 15px;
+    margin: 10px auto;
+    background-color: #FFD700; /* Goldfish orange */
+    color: white;
+    border: 2px solid #FF4500; /* Darker orange for border */
+    border-radius: 30px;
+    font-size: 1.2em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.menu-button:hover, .back-button:hover {
+    background-color: #FF4500; /* Darker orange on hover */
+    transform: scale(1.1);
+}
+
+.menu-button:active, .back-button:active {
+    background-color: #FF6347; /* Red-orange when clicked */
+}
+
+.menu-button:focus, .back-button:focus {
+    outline: none;
+}
+
+.page-container {
+    background-color: #FFFAF0;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 10px 15px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    z-index: 1;
+}
+
+p {
+    font-size: 1.2em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+.goldfish-image {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
