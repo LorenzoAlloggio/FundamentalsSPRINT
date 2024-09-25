@@ -8,7 +8,7 @@
 
 #### They come in many different colors such as, orange, red, white, yellow, black, and multicolored patterns.
 
-#### Goldfishes often prefer cooler water of 18-24°C
+#### Goldfishes often prefer cooler water of 18 - 24°C
 
 #### For breeding male and female goldfish can be difficult to distinguish, but during the breeding season, males develop white breeding tubercles (small bumps) on their gill covers and pectoral fins.
 
@@ -26,7 +26,7 @@
 
 #### Goldfish eyes can detect ultraviolet and infrared rays.
 
-#### there are over 200 types of goldfish
+#### there are over 200+ types of goldfish
 
 #### goldfish grow depending on size of the tank
 
@@ -34,18 +34,29 @@
 
 #### Contrary to popular belief, goldfish have a five-month memory and not three-second memory
 
-###
+#### The general lifespan of a goldfish is over 10 years and with proper care up to 40 years.
 
-###
+#### goldfish are an invasive species
 
-###
+#### goldfish dont have eyelids
 
-###
+#### Goldfish don’t piss(urinate)
 
-###
+#### Goldfish are omnivores
+
+####
+
+####
+
+####
+
+####
 
 ## Sources:
 ### - *[ChatGPT](https://chatgpt.com/share/66f40227-3ab0-800e-9dfe-52fbc3fcfecc)* (Press this to go to the conversation)
 ### - *[Wikipedia Common Goldfish](https://en.wikipedia.org/wiki/Common_goldfish)*
 ### - *[Facts About Goldfish](https://www.petmd.com/fish/care/evr_fi_facts-about-goldfish)*
 ### - *[23 Interesting Goldfish Facts](https://www.coolkidfacts.com/23-interesting-goldfish-facts/)*
+### - *[goldfish facts](https://www.trvst.world/biodiversity/goldfish-facts/)*
+### - *[goldfish facts](https://thegoldfishtank.com/goldfish-facts/)*
+### - *[10 interesting facts about goldfish](https://www.stodels.com/10-interesting-facts-about-goldfish/)*
